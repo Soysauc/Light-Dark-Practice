@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+img {
+  height: 100px;
+}
+header {
+  padding: 1em;
+  background-color: blue;
+  margin-bottom: 1em;
+  padding-bottom: 3.5em;
+  text-align: center;
+}
+.nav {
+  height: 70px;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
